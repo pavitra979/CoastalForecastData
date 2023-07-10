@@ -1,4 +1,4 @@
-# CoastalForecastPublicationData
+# CoastalForecastData
 This repository contains the dataset of plots of the paper titled "Coastal forecast through coupling of Artificial Intelligence and hydro-morphodynamical modelling" published in the Coastal Engineering Journal (Taylor and Francis). The paper, authored by Pavitra Kumar and Nicoletta Leonardi, explores the application of Artificial Neural Networks and Bayesian Networks in conjunction with fully coupled hydrodynamics and morphological models (Delft3D) to predict morphological changes and suspended sediment transport (SST) in coastal systems.
 
 The study investigates two sets of Artificial Intelligence models. The first set utilizes localized modeling outputs or localized data sources, while the second set minimizes reliance on modeling outputs and, once trained, solely utilizes boundary conditions and coastline geometry. In this study, the second set of models is referred to as the "reduced dependency models."
